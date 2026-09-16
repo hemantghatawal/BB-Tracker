@@ -85,11 +85,13 @@ body {
 .transaction-item p.income {
   color: green;
   font-weight: bold;
+  text-transform: capitalize;
 }
 
 .transaction-item p.expense {
   color: red;
   font-weight: bold;
+  text-transform: capitalize;
 }
 .delete-btn {
   padding: 8px 14px;
